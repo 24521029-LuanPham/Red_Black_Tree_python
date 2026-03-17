@@ -1,6 +1,7 @@
 # Bài tập Cây Đỏ Đen (Red-Black Tree) bằng Python
+# Link github: https://github.com/24521029-LuanPham/Red_Black_Tree_python/tree/main
 
-# Sinh Viên thưc hiện
+# Sinh Viên thực hiện
 
 - Phạm Mạnh Luân - 24521029
 
